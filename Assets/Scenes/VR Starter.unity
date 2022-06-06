@@ -667,6 +667,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4794563922480721308, guid: 05842e9ea62a4e44aa1c3d0ed267304f, type: 3}
+      propertyPath: m_RotateAnchor
+      value: 
+      objectReference: {fileID: -5913262927076077117, guid: c348712bda248c246b8c49b3db54643f, type: 3}
     - target: {fileID: 4794563924135827547, guid: 05842e9ea62a4e44aa1c3d0ed267304f, type: 3}
       propertyPath: m_Name
       value: XR
