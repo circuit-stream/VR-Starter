@@ -1169,6 +1169,45 @@
                     "isPartOfComposite": false
                 }
             ]
+        },
+        {
+            "name": "CusomActions",
+            "id": "b8cebf38-5a6c-419a-b5fd-c5f47dbd93c0",
+            "actions": [
+                {
+                    "name": "MenuToggle",
+                    "type": "Button",
+                    "id": "ce6859de-0635-4b26-8b67-8c69de8c25fc",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "ebbb60e5-9958-420b-a3f4-31ea95ee88ac",
+                    "path": "<XRController>{LeftHand}/start",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Generic XR Controller",
+                    "action": "MenuToggle",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "8cb945da-f5e3-400e-8bf0-1ef4cfb2b5d3",
+                    "path": "<XRController>{LeftHand}/start",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Generic XR Controller",
+                    "action": "MenuToggle",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
         }
     ],
     "controlSchemes": [

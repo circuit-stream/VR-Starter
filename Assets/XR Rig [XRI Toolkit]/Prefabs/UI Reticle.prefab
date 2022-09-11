@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1363582347857917490}
-  m_Layer: 2
+  m_Layer: 8
   m_Name: UI Reticle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44,7 +44,7 @@ GameObject:
   - component: {fileID: 7645268396799861272}
   - component: {fileID: 3642129384339981227}
   - component: {fileID: 8266607233406622039}
-  m_Layer: 2
+  m_Layer: 8
   m_Name: Disc_1 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -127,7 +127,7 @@ GameObject:
   - component: {fileID: 4931620069405709445}
   - component: {fileID: 2015402323949725535}
   - component: {fileID: 4196789452261259344}
-  m_Layer: 2
+  m_Layer: 8
   m_Name: Disc_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
